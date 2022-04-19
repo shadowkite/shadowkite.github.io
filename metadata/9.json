@@ -1,5 +1,6 @@
 {
   "name": "Bloom",
   "description": "Art collection",
-  "embed": "data:text/html;base64,PGh0bWw+CjxoZWFkPjwvaGVhZD4KPGJvZHk+CkhpIQo8L2JvZHkKPC9odG1sPg=="
+  "image": "data:text/html;base64,PGh0bWw+CjxoZWFkPjwvaGVhZD4KPGJvZHk+CkhpIQo8L2JvZHkKPC9odG1sPg==",
+  "embed": true
 }
